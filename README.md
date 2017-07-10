@@ -1,0 +1,2 @@
+# BaiduMapsApiASDemo
+本demo主要是百度地图的聚合功能
