@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\software\AndroidStudio\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_47ba76af1c682bff0ee8aaf9180fe4bb912e990c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\libs\baidumapapi_radar_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec3b3b79fdcc8fe059676554e31053027043edf8">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_1_1_b89cefdf1ee0f90c4e3a37d86e8b3565fd4d11f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\libs\baidumapapi_cloud_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="93ef91d018051b8b5e001eb5e106b983fee8a549">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_1_1_c0074bc399adc9856e77d35aef675c01f2e92e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\locSDK_6.13_adc4675fbc167a2903cc187108a10a13bd18b139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\libs\baidumapapi_search_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b73dac26619f94061d28c54a7982ae8e0e783903">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_1_1_802262fa47da02f168b6ccba9ed3e18614333b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_0b9210aa7c927fc651f72f53c79b458a9f569f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_a6e97898b0e9ede31ad00902ba63a833a82e0dbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\libs\baidumapapi_util_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5630c44b212b90ad64c2bc2a994cbf28d1b08a7">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_1_1_07a01b249daed6ee5084f43825fe4985c68f7884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_a74114829c5b1b808b410ed65614a8bc755e0c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\libs\baidumapapi_base_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_1_1_993603398a02969221240e5f7ba7fdacec64a4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\libs\baidumapapi_map_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
+        <dex dex="C:\Users\xiedongyan\Desktop\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_1_1_9db9c94e8525b93ea8ca11800e32ebe33c3f42a6.jar" />
+    </item>
+
+</items>
